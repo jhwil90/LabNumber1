@@ -1,0 +1,7 @@
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\bin\Debug\LabNUmber1.exe.config
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\bin\Debug\LabNUmber1.exe
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\bin\Debug\LabNUmber1.pdb
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\obj\Debug\LabNUmber1.csprojResolveAssemblyReference.cache
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\obj\Debug\LabNUmber1.csproj.CoreCompileInputs.cache
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\obj\Debug\LabNUmber1.exe
+C:\Users\jhwil\source\repos\LabNUmber1\LabNUmber1\obj\Debug\LabNUmber1.pdb
